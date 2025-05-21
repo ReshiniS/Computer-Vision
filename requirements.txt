@@ -3,3 +3,4 @@ ultralytics
 huggingface_hub
 opencv-python
 Pillow
+opencv-python-headless
