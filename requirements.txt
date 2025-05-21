@@ -1,6 +1,10 @@
 streamlit
-ultralytics
+ultralytics==8.0.198
 huggingface_hub
-opencv-python
-Pillow
 opencv-python-headless
+Pillow
+numpy
+pandas
+torch==2.1.0
+torchvision==0.16.0
+
